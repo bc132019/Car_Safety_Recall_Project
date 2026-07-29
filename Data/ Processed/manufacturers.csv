@@ -1,0 +1,7 @@
+manufacturer_id,Make,ManufacturerGroup
+1,chevrolet,domestic
+2,chrysler,domestic
+3,ford,domestic
+4,honda,international
+5,hyundai,international
+6,toyota,international
